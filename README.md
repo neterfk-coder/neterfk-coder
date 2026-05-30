@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Giovanny Wesche 👋
+# Hey, I'm Arnold Giovanny Wesche 👋
 
 **Full Stack Developer · Builder · Open to Work**
 
