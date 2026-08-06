@@ -2,86 +2,162 @@
 
 # Arnold Giovanny Wesche
 
-**Software Developer · Python & TypeScript · AI-powered tools for Latin America**
+### Software Engineer · AI Applications & Full-Stack Development
 
-Systems Engineering student building products around education, public data and intelligent agents.
+**I build AI-powered products for education, public safety, and financial access in Latin America.**
 
-[![Location](https://img.shields.io/badge/Peru-1C1C1C?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Company](https://img.shields.io/badge/Netric_Studio-1C1C1C?style=flat-square&logo=briefcase&logoColor=white)](#)
-[![Open to remote](https://img.shields.io/badge/Open_to_remote_work-238636?style=flat-square)](#)
-[![Email](https://img.shields.io/badge/Email-1C1C1C?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_EMAIL@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+<br>
+
+[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Roles%20(US)-238636?style=for-the-badge&labelColor=0D1117)](mailto:TU_EMAIL@ejemplo.com)
+[![Timezone](https://img.shields.io/badge/UTC--5-Full%20US%20Eastern%20Overlap-1F6FEB?style=for-the-badge&labelColor=0D1117)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:TU_EMAIL@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/TU_USUARIO)
 
 </div>
+
+<br>
 
 ---
 
 ## About
 
-I build software for problems that are underserved in Latin America — access to education, financial literacy, and early warning for natural disasters. Most of my work sits at the intersection of **web applications and applied AI**: taking public data sources or LLM APIs and turning them into something a non-technical person can actually use.
+Systems Engineering student and developer at **Netric Studio Corporation**, focused on turning public data sources and LLM APIs into tools that non-technical people can actually use.
 
-Currently focused on intelligent agents, real-time data pipelines, and shipping projects end to end rather than leaving them as demos.
+My work centers on three areas: **real-time data aggregation** (multi-source APIs, live monitoring), **applied AI** (LLM integration, intelligent agents, structured outputs), and **full-stack delivery** (shipping end-to-end, not stopping at demos).
 
-- 🏢 Developer at **Netric Studio Corporation**
-- 🎓 **Systems Engineering** student
-- 🔭 Building with **Python (FastAPI)**, **TypeScript (Next.js / React)** and **Flutter**
-- 🌎 **Open to remote opportunities** worldwide
-- 💬 Happy to talk about AI integrations, public APIs, or building for LATAM markets
+Based in Peru on **UTC-5** — full working-day overlap with US Eastern and Central time zones. Available for remote roles and contract work.
 
----
-
-## Featured Projects
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **[🌍 GEOALERT](https://github.com/neterfk-coder/GEOALERT)** | Real-time natural disaster monitor tracking earthquakes, tsunamis, volcanoes, cyclones and floods. Aggregates live feeds from NASA GIBS, USGS, GDACS and NOAA. | JavaScript, Public APIs |
-| **[💰 edufinance-ai](https://github.com/neterfk-coder/edufinance-ai)** | AI financial advisor for university students. Built for the HackPulse Hackathon 2026. | Next.js, Claude API, Recharts |
-| **[🛡️ mod-sentinel](https://github.com/neterfk-coder/mod-sentinel)** | Health monitor for Reddit moderation teams — surfaces burnout and workload signals across a mod team. | TypeScript |
-| **[🧠 MNEMOS](https://github.com/neterfk-coder/MNEMOS)** | ⚠️ COMPLETAR: una línea explicando qué hace y para quién. | Python |
-| **[📚 Yachay-Lab](https://github.com/neterfk-coder/Yachay-Lab)** | ⚠️ COMPLETAR: una línea explicando qué hace y para quién. | JavaScript |
-| **[🇯🇵 jlpt-master](https://github.com/neterfk-coder/jlpt-master)** | ⚠️ COMPLETAR: app de estudio para el examen JLPT — describe el alcance real. | Dart, Flutter |
+<br>
 
 ---
 
 ## Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**AI & Data**
-![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## GitHub Activity
-
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neterfk-coder&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+**Production — technologies I build with**
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,html,css,git,github,vercel&theme=dark)](https://skillicons.dev)
+
+<br>
+
+**Learning — actively building toward**
+
+[![Learning](https://skillicons.dev/icons?i=flutter,dart,docker,postgres,tailwind,ai&theme=dark)](https://skillicons.dev)
 
 </div>
 
+<br>
+
+<div align="center">
+
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | Python · TypeScript · JavaScript · Dart |
+| **Backend** | FastAPI · Node.js · REST APIs |
+| **Frontend** | Next.js · React · TypeScript |
+| **AI / LLM** | Claude API · Prompt engineering · Structured outputs · Agent workflows |
+| **Data** | Public API integration · Real-time feeds · Recharts / data visualization |
+| **Mobile** | Flutter *(in progress)* |
+| **Tooling** | Git · GitHub · Vercel · Docker *(in progress)* |
+
+</div>
+
+<br>
+
+---
+
+## Featured Work
+
+<details open>
+<summary><b>🌍 GEOALERT — Real-time global disaster monitoring</b></summary>
+
+<br>
+
+A live monitoring dashboard that tracks earthquakes, tsunamis, volcanic activity, cyclones and floods as they happen.
+
+**The engineering problem:** four independent government and scientific agencies publish disaster data in four incompatible formats, on different update cycles, with no shared schema. GEOALERT normalizes them into a single real-time feed.
+
+**Data sources integrated:** NASA GIBS · USGS · GDACS · NOAA
+
+`JavaScript` `Public API Integration` `Real-time Data` `Geospatial Visualization`
+
+**[→ View repository](https://github.com/neterfk-coder/GEOALERT)**
+
+</details>
+
+<details>
+<summary><b>💰 edufinance-ai — AI financial advisor for university students</b></summary>
+
+<br>
+
+An LLM-powered advisor that helps university students understand and plan their personal finances — a demographic almost entirely ignored by existing fintech tools.
+
+**Built for HackPulse Hackathon 2026.** Combines conversational AI with visual budget breakdowns so users get both explanation and evidence.
+
+`Next.js` `Claude API` `Recharts` `TypeScript`
+
+**[→ View repository](https://github.com/neterfk-coder/edufinance-ai)**
+
+</details>
+
+<details>
+<summary><b>🛡️ mod-sentinel — Team health monitor for Reddit moderators</b></summary>
+
+<br>
+
+Volunteer moderation teams burn out silently and lose members without warning. mod-sentinel surfaces workload distribution and burnout signals across a moderation team before people quit.
+
+An exercise in turning behavioral signals into actionable metrics rather than raw dashboards.
+
+`TypeScript` `Reddit API` `Analytics`
+
+**[→ View repository](https://github.com/neterfk-coder/mod-sentinel)**
+
+</details>
+
+<details>
+<summary><b>📂 More projects</b></summary>
+
+<br>
+
+| Repository | Language |
+|:---|:---|
+| [MNEMOS](https://github.com/neterfk-coder/MNEMOS) | Python |
+| [amauta-proyect](https://github.com/neterfk-coder/amauta-proyect) | TypeScript |
+| [Yachay-Lab](https://github.com/neterfk-coder/Yachay-Lab) | JavaScript |
+| [jlpt-master](https://github.com/neterfk-coder/jlpt-master) | Dart / Flutter |
+| [blackoutsource](https://github.com/neterfk-coder/blackoutsource) | TypeScript |
+| [quizforge](https://github.com/neterfk-coder/quizforge) | HTML / JS |
+| [agrolatam-agent](https://github.com/neterfk-coder/agrolatam-agent) | HTML / JS |
+
+**[→ Browse all repositories](https://github.com/neterfk-coder?tab=repositories)**
+
+</details>
+
+<br>
+
+---
+
+## Activity
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neterfk-coder&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400)
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-**Looking for a developer who ships?** I'm open to remote roles and freelance collaborations.
+### Currently open to remote software engineering roles with US-based teams
 
-[![Email](https://img.shields.io/badge/Get_in_touch-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@ejemplo.com)
+Full US Eastern time zone overlap · Available immediately
+
+[![Email](https://img.shields.io/badge/Get%20in%20touch-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:TU_EMAIL@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/TU_USUARIO)
 
 </div>
