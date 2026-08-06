@@ -1,68 +1,78 @@
 <div align="center">
 
-# Hey, I'm Arnold Giovanny Wesche 👋
+# Arnold Giovanny Wesche
 
-**Full Stack Developer · Builder · Open to Work**
+**Software Developer · Python & TypeScript · AI-powered tools for Latin America**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=238636&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+real+world+solutions;TypeScript+%7C+React+%7C+Node.js;Always+learning+something+new)](https://git.io/typing-svg)
+Systems Engineering student building products around education, public data and intelligent agents.
+
+[![Location](https://img.shields.io/badge/Peru-1C1C1C?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Company](https://img.shields.io/badge/Netric_Studio-1C1C1C?style=flat-square&logo=briefcase&logoColor=white)](#)
+[![Open to remote](https://img.shields.io/badge/Open_to_remote_work-238636?style=flat-square)](#)
+[![Email](https://img.shields.io/badge/Email-1C1C1C?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_EMAIL@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Full Stack Developer passionate about building solutions that make an impact. I focus on clean code, scalable architectures, and products that solve real problems.
+I build software for problems that are underserved in Latin America — access to education, financial literacy, and early warning for natural disasters. Most of my work sits at the intersection of **web applications and applied AI**: taking public data sources or LLM APIs and turning them into something a non-technical person can actually use.
 
-- 🏢 Currently at **Netric Studio Corporation**
-- 🌎 Based in **Peru**
-- 🔭 Working on **AI and automation projects**
-- 🌱 Learning about **intelligent agents and LLMs**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- 📫 Want to collaborate? Reach out here on GitHub
+Currently focused on intelligent agents, real-time data pipelines, and shipping projects end to end rather than leaving them as demos.
+
+- 🏢 Developer at **Netric Studio Corporation**
+- 🎓 **Systems Engineering** student
+- 🔭 Building with **Python (FastAPI)**, **TypeScript (Next.js / React)** and **Flutter**
+- 🌎 **Open to remote opportunities** worldwide
+- 💬 Happy to talk about AI integrations, public APIs, or building for LATAM markets
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-**Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[🌍 GEOALERT](https://github.com/neterfk-coder/GEOALERT)** | Real-time natural disaster monitor tracking earthquakes, tsunamis, volcanoes, cyclones and floods. Aggregates live feeds from NASA GIBS, USGS, GDACS and NOAA. | JavaScript, Public APIs |
+| **[💰 edufinance-ai](https://github.com/neterfk-coder/edufinance-ai)** | AI financial advisor for university students. Built for the HackPulse Hackathon 2026. | Next.js, Claude API, Recharts |
+| **[🛡️ mod-sentinel](https://github.com/neterfk-coder/mod-sentinel)** | Health monitor for Reddit moderation teams — surfaces burnout and workload signals across a mod team. | TypeScript |
+| **[🧠 MNEMOS](https://github.com/neterfk-coder/MNEMOS)** | ⚠️ COMPLETAR: una línea explicando qué hace y para quién. | Python |
+| **[📚 Yachay-Lab](https://github.com/neterfk-coder/Yachay-Lab)** | ⚠️ COMPLETAR: una línea explicando qué hace y para quién. | JavaScript |
+| **[🇯🇵 jlpt-master](https://github.com/neterfk-coder/jlpt-master)** | ⚠️ COMPLETAR: app de estudio para el examen JLPT — describe el alcance real. | Dart, Flutter |
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+---
+
+## Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**AI & Data**
+![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🤖 CLAUSIO](https://github.com/neterfk-coder/CLAUSIO) | AI project focused on intelligent automation | HTML, JS |
-| [🛡️ mod-sentinel](https://github.com/neterfk-coder/mod-sentinel) | Reddit mod team health monitor | TypeScript |
-| [🌱 agrolatam-agent](https://github.com/neterfk-coder/agrolatam-agent) | Intelligent agent for the Latin American agro sector | HTML, JS |
-| [⬇️ desnetrs-bot](https://github.com/neterfk-coder/desnetrs-bot) | Automated download bot with multiple integrations | JavaScript |
-
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neterfk-coder&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neterfk-coder&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=neterfk-coder&theme=github-dark-blue&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neterfk-coder&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
@@ -70,8 +80,8 @@ I'm a Full Stack Developer passionate about building solutions that make an impa
 
 <div align="center">
 
-*"Code is poetry — write it with intention."*
+**Looking for a developer who ships?** I'm open to remote roles and freelance collaborations.
 
-![Profile views](https://komarev.com/ghpvc/?username=neterfk-coder&color=238636&style=flat-square)
+[![Email](https://img.shields.io/badge/Get_in_touch-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@ejemplo.com)
 
 </div>
