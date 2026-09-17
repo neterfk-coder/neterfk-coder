@@ -1,117 +1,162 @@
+<div align="center">
+
 # Arnold Giovanny Wesche
 
 ### Software Developer · Backend & Applied AI
 
 **I build and ship AI-powered products end to end — from backend architecture to production deployment.**
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Roles%20(LATAM%20·%20US%20·%20Global)-238636?style=for-the-badge&labelColor=0D1117)](mailto:giovannywesche23@gmail.com)
-[![Timezone](https://img.shields.io/badge/UTC--5-Full%20US%20Eastern%20Overlap-1F6FEB?style=for-the-badge&labelColor=0D1117)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://arnoldwesche.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:giovannywesche23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/arnoldwesche)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:giovannywesche23@gmail.com)
+
+[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Roles-238636?style=flat-square&labelColor=0D1117)](mailto:giovannywesche23@gmail.com)
+[![Timezone](https://img.shields.io/badge/UTC--5-Full%20US%20Eastern%20Overlap-1F6FEB?style=flat-square&labelColor=0D1117)](#)
+[![Location](https://img.shields.io/badge/Lima-Peru-8957E5?style=flat-square&labelColor=0D1117)](#)
+
+</div>
 
 ---
 
-## About
+## 👨‍💻 About
 
-Software developer focused on **backend systems and artificial intelligence**, with published products running in production.
+Software developer focused on **backend systems and applied artificial intelligence**, with products published and running in production.
 
-My work centers on three areas: **backend architecture** with Python and FastAPI — REST API design, external service integration and cloud deployment; **applied AI** — autonomous agents, LLM integration and real-time data pipelines; and **full-stack delivery** — shipping complete products, not stopping at demos.
+I work across the full delivery path: designing backend architecture in **Python and FastAPI**, building mobile applications in **Flutter**, integrating **LLMs and autonomous agents**, and deploying to production on **Google Cloud, Docker and Vercel**.
 
 Co-founded **Netricd Studio**, an independent software studio, where I led the development of a mobile application published on Google Play.
 
-Systems and Computer Engineering student at UTP. Based in Peru on **UTC-5** — full working-day overlap with US Eastern and Central time zones. Available for remote roles and contract work.
+Systems and Computer Engineering student at UTP, based in Peru on **UTC-5** — full working-day overlap with US Eastern and Central time zones.
 
 ---
 
-## Tech Stack
+## ⚡ What I Bring
+
+| | |
+| --- | --- |
+| 🚀 **Shipped, not shelved** | A mobile app live on Google Play and two AI systems deployed and publicly accessible — not prototypes sitting in a folder. |
+| 🤖 **Agentic AI, hands-on** | Built autonomous agents with Gemini 2.0, Google Cloud Agent Builder and the MCP protocol — connecting live external data to LLM reasoning. |
+| 🧩 **Engineering from scratch** | Wrote a browser physics engine with zero dependencies using the Canvas API and semi-implicit Euler integration. |
+| 🌎 **Remote-ready** | Full US timezone overlap, four languages, and experience delivering complete products under tight deadlines. |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,flutter,dart,typescript,javascript,firebase,supabase,docker,gcp,vercel,git&theme=dark)](https://skillicons.dev)
+
+</div>
 
 | Domain | Technologies |
 | --- | --- |
 | **Languages** | Python · TypeScript · JavaScript · Dart |
 | **Backend** | FastAPI · REST APIs · Node.js |
-| **AI / LLM** | Gemini 2.0 Flash · Google Cloud Agent Builder · Groq · LLaMA 3.3 · MCP Protocol · Agent workflows |
+| **AI / LLM** | Gemini 2.0 Flash · Google Cloud Agent Builder · Groq · LLaMA 3.3 · MCP Protocol |
 | **Mobile** | Flutter · Dart |
-| **Data** | Firebase · Supabase (PostgreSQL + Realtime) · Public API integration |
-| **Cloud & Tooling** | Google Cloud · Cloud Run · Docker · Vercel · Git · GitHub |
+| **Data** | Supabase (PostgreSQL + Realtime) · Firebase · Public API integration |
+| **Cloud & DevOps** | Google Cloud · Cloud Run · Docker · Vercel |
+| **Tooling** | Git · GitHub · Agile / Scrum |
 
 ---
 
-## Featured Work
+## 🚀 Featured Projects
 
-### 📱 Mérito — University admission prep app
+### 1. Mérito — University Admission Prep App
 
-A mobile application published on **Google Play** that prepares students across Peru for national university admission exams.
+> **Published on Google Play** · Netricd Studio
 
-Built at Netricd Studio, where I **led the development** with team collaboration across product stages. Covered the full product cycle: development, store release and ongoing maintenance updates.
+**The problem** — University admission exams in Peru are a gatekeeper to higher education, but effective preparation is locked behind private prep academies most students can't afford.
 
-Focused on making exam preparation accessible to students without access to private prep academies.
+**What I built** — A mobile application that delivers structured admission-exam preparation to students nationwide, free of that barrier.
+
+**My role** — Led the development at Netricd Studio with team collaboration across product stages, covering the full product cycle: development, store release and ongoing maintenance updates.
 
 `Flutter` `Dart` `Firebase` `Mobile` `Published Product`
 
-<!-- Paste your Google Play link here when ready, e.g. **[→ View on Google Play](URL)** -->
-*Private repository*
+<!-- Paste your Google Play link below when ready -->
+📦 *Private repository*
 
 ---
 
-### 🤖 AgroLatam Agent — Autonomous AI agent for Latin American agriculture
+### 2. AgroLatam Agent — Autonomous AI Agent for Agriculture
 
-An autonomous AI agent that monitors commodity markets, weather and export data across **18 Latin American countries** in real time.
+> **Google Cloud Rapid Agent Hackathon 2026** · Fivetran Track
 
-**The engineering problem:** agricultural market, weather and trade data live in separate systems with incompatible formats and update cycles. The agent aggregates them, reasons over them, and turns them into actionable alerts.
+**The problem** — Agricultural market prices, weather forecasts and export data live in separate systems, in incompatible formats, on different update cycles. Smallholder farmers have no practical way to act on any of it.
 
-Designed to serve a potential market of 60 million smallholder farmers through price alerts, weather warnings, export opportunity detection and credit document generation. Developed independently end to end — backend architecture, agent orchestration and frontend deployment.
+**What I built** — An autonomous AI agent that monitors commodity markets, weather and export data across **18 Latin American countries** in real time, then turns it into actionable alerts: price warnings, weather advisories, export opportunity detection and credit document generation.
 
-Built for the **Google Cloud Rapid Agent Hackathon 2026** (Fivetran Track).
+**Engineering highlight** — Developed independently end to end: backend architecture, agent orchestration and frontend deployment. Live external data sources connected to LLM reasoning through the MCP protocol.
 
 `Python` `FastAPI` `Gemini 2.0 Flash` `Agent Builder` `Fivetran MCP` `Docker` `Cloud Run`
 
-**[→ View repository](https://github.com/neterfk-coder/agrolatam-agent)** · **[→ Live demo](https://agrolatam-agent.vercel.app)**
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neterfk-coder/agrolatam-agent)
+[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://agrolatam-agent.vercel.app)
 
 ---
 
-### 🔬 Yachay Lab — AI-powered virtual STEM laboratory
+### 3. Yachay Lab — AI-Powered Virtual STEM Laboratory
 
-A browser-based physics and chemistry laboratory giving students free access to **17 interactive simulators** — no installation, no registration.
+> **2nd Place** · DSH Hacks V1 (2026)
 
-**The engineering problem:** virtual labs are either paid, installation-heavy, or too shallow to teach anything. Yachay Lab runs entirely in the browser with a physics engine written from scratch using the Canvas API and semi-implicit Euler integration — **zero external dependencies**.
+**The problem** — Virtual science labs are either paid, installation-heavy, or too shallow to teach anything real. Students without lab access get nothing.
 
-Includes an AI tutor built on Groq and LLaMA 3.3 70B that applies the Socratic method, with voice input and synthesis via the Web Speech API. Adaptive practice is driven by an Elo rating system, with real-time 1v1 multiplayer over Supabase Realtime and an AI exam generator.
+**What I built** — A browser-based physics and chemistry laboratory with **17 interactive simulators** — no installation, no registration, no cost. Paired with an AI tutor that applies the Socratic method instead of handing over answers.
 
-Second place at **DSH Hacks V1 (2026)**, a student hackathon on AI applied to STEM education.
+**Engineering highlight** — The physics engine is written from scratch using the Canvas API with semi-implicit Euler integration and **zero external dependencies**. Adaptive practice runs on an Elo rating system, with real-time 1v1 multiplayer over Supabase Realtime and an AI-generated exam engine.
 
-`Vanilla JS` `Canvas API` `Groq` `LLaMA 3.3` `Supabase Realtime` `Web Speech API` `Chart.js`
+`Vanilla JS` `Canvas API` `Groq` `LLaMA 3.3 70B` `Supabase Realtime` `Web Speech API` `Chart.js`
 
-**[→ View repository](https://github.com/neterfk-coder/Yachay-Lab)** · **[→ Live demo](https://yachay-lab.vercel.app)**
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neterfk-coder/Yachay-Lab)
+[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://yachay-lab.vercel.app)
 
 ---
 
-## Education
+## 📈 Currently Building Toward
+
+- **PostgreSQL & advanced SQL** — query optimization, indexing and schema design for production backends
+- **RAG systems & vector databases** — embeddings, retrieval pipelines and `pgvector`
+- **LLM evaluation & guardrails** — measuring agent reliability, not just getting it to run once
+- **English B1 → B2** — toward full professional working proficiency
+
+---
+
+## 🎓 Education
 
 **Systems and Computer Engineering** — Universidad Tecnológica del Perú (UTP)
-Lima, Peru · 2023 – Present
+📍 Lima, Peru · 2023 – Present
 
-Participant in 5+ hackathons across agri-tech, STEM education and applied AI.
-
----
-
-## Languages
-
-Spanish (native) · English (B1) · Japanese (N4) · Korean (basic)
+Participant in **5+ hackathons** across agri-tech, STEM education and applied AI, consistently shipping complete, working products under tight deadlines.
 
 ---
 
-## Activity
+## 🌐 Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neterfk-coder&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400)](https://github.com/neterfk-coder)
+🇪🇸 **Spanish** — Native &nbsp;•&nbsp; 🇬🇧 **English** — B1 &nbsp;•&nbsp; 🇯🇵 **Japanese** — N4 &nbsp;•&nbsp; 🇰🇷 **Korean** — Basic
 
 ---
 
-### Currently open to remote software engineering roles
+## 📊 GitHub Activity
 
-Available immediately · Contractor or freelance · LATAM, US and global companies
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neterfk-coder&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=350)](https://github.com/neterfk-coder)
+[![Stats](https://github-readme-stats.vercel.app/api?username=neterfk-coder&show_icons=true&theme=github_dark&hide_border=true&card_width=350)](https://github.com/neterfk-coder)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open to remote software engineering roles
+
+**Available immediately** · Contractor or freelance · LATAM · US · Global
 
 [![Email](https://img.shields.io/badge/Get%20in%20touch-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:giovannywesche23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/arnoldwesche)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://arnoldwesche.vercel.app/)
+
+</div>
